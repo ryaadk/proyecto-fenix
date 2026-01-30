@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/ryadk/OneDrive/Escritorio/Proyecto Fénix/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ryadk/OneDrive/Escritorio/Proyecto Fénix/demo/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+com.example
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\src\main\java = 1769774299623
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\allclasses-index.html = 1769793455517
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\allpackages-index.html = 1769793455525
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\element-list = 1769793455406
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\help-doc.html = 1769793455600
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\index-all.html = 1769793455569
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\index.html = 1769793455584
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\member-search-index.js = 1769793455541
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\module-search-index.js = 1769793455530
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\overview-tree.html = 1769793455485
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\package-search-index.js = 1769793455534
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\search.html = 1769793455577
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\tag-search-index.js = 1769793455547
+C:\Users\ryadk\OneDrive\Escritorio\Proyecto Fénix\demo\target\reports\apidocs\type-search-index.js = 1769793455538
